@@ -1,4 +1,7 @@
 # AtividadeFinalTecnicas
+
+Alunas: Aynoan Ferreira Lopes e Veronica Santos Choquepuma
+
 Sistema de Gerenciamento de Aluno
 
 Esta atividade tem o objetivo de fazer um gereciamento de alunos. 
